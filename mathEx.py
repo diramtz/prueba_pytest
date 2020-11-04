@@ -19,4 +19,4 @@ def stat2Num(x, y):
     (x+y)/2 : float
         mean of two numbers
     """
-    return(x+y+1, (x+y)/2)
+    return(x+y, (x+y)/2)
